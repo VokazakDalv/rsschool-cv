@@ -20,3 +20,22 @@ ___
 1. basic GIT
 2. basic HTML/CSS
 2. basic core JS
+
+___
+#### My code example:
+```
+<script>
+alert( 'Привет, мир!' );
+</script>
+```
+___to be continued...___
+___
+#### My projects:
+
+`some projects from 3Q2021`
+___
+#### Education:
+graduated from Saratov State University in 2003
+___
+#### English:
+A1 level English (_score from EPAM Examinator 05.02.2021_)
