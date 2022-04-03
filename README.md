@@ -1,1 +1,1 @@
-[**CV-Markdown**](https://GITHUB-USERNAME.github.io/rsschool-cv/cv "CV#1. Markdown & Git")
+[**CV-Markdown**](https://vokazakdalv.github.io/rsschool-cv/cv "CV#1. Markdown & Git")
