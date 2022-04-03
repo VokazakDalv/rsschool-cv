@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+
+
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: grey;
+  padding: 10px;
+}
+.img-rss {
+  width: 100px;
+  height: 50px;
+}
